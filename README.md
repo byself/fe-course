@@ -1,5 +1,5 @@
 
-### html课程：
+## html课程：
 1. 前端所用的三种语言以及三者之间的关系：html（内容）\css（样式）\js（行为）
 2. 使用标签编辑页面内容，常用标签
 
@@ -12,7 +12,7 @@
 
 =================================
 
-### css课程：
+## css课程：
 
 1. 引入规则：css样式文件三种引入方式，css文件，style标签，style属性（内联样式）
 2. 选择器：id、class、tag、子选择器、其他选择器
@@ -22,7 +22,6 @@
 	c. id > class > div (权重叠加规则， 选择器种类（id选择器，class选择器，标签选择器）)
 	d. !important
 	e. 如何排查写的样式没有应用到页面上（通过浏览器查看样式保存到样式文件，样式是否被覆盖）
-
 4. 常用css样式：
 	a. css盒模型
 	b. width，heigh，margin，padding，line-height， font-size， font-weight，color，text-align，background，border
@@ -37,7 +36,7 @@
 
 =================================
 
-### js课程安排：
+## js课程：
 1. js基础：
 	- 命名规则，
 	- 算术运算符：`+、-、*、/、% 、++、 — `
@@ -53,7 +52,7 @@
 3. Dom:
 	- 获取DOM: getElementById/getElementsByClass/getElementsByTag/querySelector/querySelectorAll
 	- DOM方法：操作html和css
-	- `jquery`: 如何引入、如何使用
+	- jquery: 如何引入、如何使用
 4. jquery常用方法、jquery插件
 
 #### 目标：

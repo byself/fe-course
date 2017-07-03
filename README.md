@@ -17,17 +17,17 @@
 1. 引入规则：css样式文件三种引入方式，css文件，style标签，style属性（内联样式）
 2. 选择器：id、class、tag、子选择器、其他选择器
 3. 样式覆盖规则
-	a. 后面样式覆盖前面样式（书写顺序: 同一文件内样式的书写顺序，不同文件引入顺序）
-	b. 内联样式优先级高于style标签和css文件
-	c. id > class > div (权重叠加规则， 选择器种类（id选择器，class选择器，标签选择器）)
-	d. !important
-	e. 如何排查写的样式没有应用到页面上（通过浏览器查看样式保存到样式文件，样式是否被覆盖）
+	- 后面样式覆盖前面样式（书写顺序: 同一文件内样式的书写顺序，不同文件引入顺序）
+	- 内联样式优先级高于style标签和css文件
+	- id > class > div (权重叠加规则， 选择器种类（id选择器，class选择器，标签选择器）)
+	- !important
+	- 如何排查写的样式没有应用到页面上（通过浏览器查看样式保存到样式文件，样式是否被覆盖）
 4. 常用css样式：
-	a. css盒模型
-	b. width，heigh，margin，padding，line-height， font-size， font-weight，color，text-align，background，border
-	c. 块级元素水平居中
-	d. 行内元素水平居中
-	e. 行内元素垂直居中
+	- css盒模型
+	- width，heigh，margin，padding，line-height， font-size， font-weight，color，text-align，background，border
+	- 块级元素水平居中
+	- 行内元素水平居中
+	- 行内元素垂直居中
 5. 布局：a. 整体布局，局部布局;  b. 一栏布局、两栏布局、三栏布局 c. 布局用到的css
 
 #### 目标：
